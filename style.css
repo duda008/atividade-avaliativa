@@ -26,5 +26,6 @@ body {
             }
             .lacorosa {
                 align-items: center;
-                size: 5%;
+                height: 100px;
+                width: 100px;
             }
